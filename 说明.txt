@@ -1,0 +1,4 @@
+k=1.py文件是在knn参数为1时对PCA提取特征数进行遍历
+pca_knn.y是对knn参数为和对PCA提取特征数进行遍历
+Dataset为数据集
+No4.npy为读取数据,其他均为保存结果
